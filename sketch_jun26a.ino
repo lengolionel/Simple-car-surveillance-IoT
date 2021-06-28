@@ -9,8 +9,8 @@ const int echoPin = D3;  //D3  4
 // defines variables
 long duration;
 int distance;
-const char* ssid = "ilelio";
-const char* password = "lengo404as202";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 // Create AsyncWebServer object on port 80
 AsyncWebServer server(80);
 
